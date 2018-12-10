@@ -1,0 +1,25 @@
+Quantidade de jogos gratuitos?
+Idade Requirida?
+Distribuição dos tipos de apps?
+
+Quantidade de Desenvolvedores?
+Quantidade de Publicadores?
+Quantidade de Desenvolvedores por jogo?
+Quantidade de Publicadores por jogo?
+
+Analise do preço
+
+Analise das plataformas
+Nota metacritic
+
+Analise das categorias
+Analise dos generos
+
+Quantidade de recomendações
+Quantidade de reviews positivas
+Quantidade de reviews negativas
+
+Analise a partir da data de lançamento
+
+Quantidade de DLCs por Tempo
+Quantidade de donos

@@ -1,0 +1,8 @@
+Introdução
+
+Este trabalho busca realizar uma analise do atual mercado de jogos, especificamente na plataforma Steam. Através dessa analise espera-se saber os generos de jogos mais bem avaliados e seus preços médios, qual é a situação atual das grandes desenvolvedoras de jogos e identificar possíveis padrões da industria.
+
+Metodologia da Pesquisa
+
+Para a coleta de dados foram utilizados os dados da API SteamSpy e da própria Steam Store. A primeira foi responsavel por gerar uma lista inicial de jogos e trazer algums dados importantes que não eram disponibilizados pela propria Steam, tais como: estimativa de usuários, quantidade de avaliações positivas e negativas. Já a segunda trouxe diversas informações com maior confiabilidade, além de ampliar a lista de softwares. Foi escrito um programa em Node.JS para realizar a coleta de dados, o programa inicialmente coletou todos os apps disponíveis na SteamSpy e os adicionou ao banco de dados, após essa etapa ser finalizada, outra parte do programa buscou mais informações de cada app no banco de dados, e com isso, alguns novos apps foram descobertos.
+
